@@ -85,6 +85,7 @@ export default defineConfig({
           { text: 'MTR服务器', link: '/teach/mtr7180'}
         ]
       },
+      { text: 'Leon服务器开服网', link: '/leonserverweb'},
       { text: '成员列表', link: '/player'}
     ],
     editLink: {
