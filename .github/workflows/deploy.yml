@@ -41,8 +41,10 @@ jobs:
           cache: npm # 或 pnpm / yarn
       - name: Setup Pages
         uses: actions/configure-pages@v4
-      - name: Install package
+      - name: Install package Giscus
         run: npm i vitepress-plugin-comment-with-giscus
+      - name: Install package Timeline
+        run: npm i vitepress-markdown-timeline
       - name: Install dependencies
         run: npm ci # 或 pnpm install / yarn install / bun install
       - name: Build with VitePress
