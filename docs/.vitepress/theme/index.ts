@@ -7,9 +7,8 @@ import './vp-code-group.css'
 
 export default {
   extends: DefaultTheme,
-  ...Theme,
   enhanceApp(ctx) {
-    Theme.enhanceApp(ctx);
+    DefaultTheme.enhanceApp(ctx);
   },
 
   setup() {
