@@ -10,3 +10,10 @@ Leon开服网是由`LeonMMcoset`使用[MCSM（MCSManager Panel）](https://docs.
 2.严禁上传非上报的`*.exe`、`*.com`、`*.cmd`、`*.bat`等可执行文件或Batch脚本文件。
 
 3.不可更改密码，管理员给你的密码保存好，不许泄露用户名、密码。
+
+## 服务器
+### Minecraft
+<!-- []() - QQ群号： -->
+[Leon轨道交通](teach/mtr7180.md) - QQ群号：368272698
+
+永盛 - QQ群号：618820661（无法加入，需邀请）

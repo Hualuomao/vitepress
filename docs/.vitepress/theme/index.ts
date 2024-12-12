@@ -1,11 +1,16 @@
 import DefaultTheme from 'vitepress/theme';
 import giscusTalk from 'vitepress-plugin-comment-with-giscus';
+import "vitepress-markdown-timeline/dist/theme/index.css";
 import { useData, useRoute } from 'vitepress';
 import './var.css'
 import './vp-code-group.css'
 
 export default {
   extends: DefaultTheme,
+  ...Theme,
+  enhanceApp(ctx) {
+    Theme.enhanceApp(ctx);
+  },
 
   setup() {
     // Get frontmatter and route

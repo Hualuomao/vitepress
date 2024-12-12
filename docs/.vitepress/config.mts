@@ -1,6 +1,7 @@
 //The config of this website.
 import { defineConfig } from 'vitepress'
 import { bilibili, email, qq } from './icon.mjs'
+import timeline from "vitepress-markdown-timeline";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -22,6 +23,9 @@ export default defineConfig({
       dangerLabel: '危险',
       infoLabel: '信息',
       detailsLabel: '详细信息'
+    },
+    config: (md) => {
+      md.use(timeline)
     }
   },
   themeConfig: {
