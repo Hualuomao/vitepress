@@ -16,4 +16,6 @@ Leon开服网是由`LeonMMcoset`使用[MCSM（MCSManager Panel）](https://docs.
 <!-- []() - QQ群号： -->
 [Leon轨道交通](teach/mtr7180.md) - QQ群号：368272698
 
-永盛 - QQ群号：618820661（无法加入，需邀请）
+永盛工艺 - QQ群号：787437355
+
+云山MTR - QQ群号：1011880781
