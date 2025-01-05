@@ -19,3 +19,5 @@ Leon开服网是由`LeonMMcoset`使用[MCSM（MCSManager Panel）](https://docs.
 永盛工艺 - QQ群号：787437355
 
 云山MTR - QQ群号：1011880781
+
+无尽的夜灯 - QQ群号：770292464
