@@ -13,6 +13,9 @@ Leon开服网是由`LeonMMcoset`使用[MCSM（MCSManager Panel）](https://docs.
 
 ## 服务器
 ### Minecraft
+::: warning
+Leon开服网这几天要解散，看情况。
+:::
 <!-- []() - QQ群号： -->
 [Leon轨道交通](teach/mtr7180.md) - QQ群号：368272698
 
