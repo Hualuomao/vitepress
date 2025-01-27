@@ -38,7 +38,7 @@ const membersA = [
       { icon: {svg: bilibili}, link: 'https://space.bilibili.com/3546650649823421?spm_id_from=333.337.0.0'}
     ]
   }
-]
+],
 const membersB = [
   {
     avatar: 'https://github.com/Leonmmcoset/vitepress/blob/3c0cb70b27473534b7c10e6bd729e4980c81429c/images/hushu.png?raw=true',
