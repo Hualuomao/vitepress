@@ -106,7 +106,7 @@ const membersB = [
     ]
   },
   {
-    avatar: 'http://leonmmcoset.jjmm.ink:1000/web/bbs/public/assets/avatars/enOte4hqLSiMybfl.png',
+    avatar: 'http://q.qlogo.cn/headimg_dl?dst_uin=104560298&spec=640&img_type=jpg',
     name: 'wjdyd',
     title: '论坛总管',
     links: [
@@ -138,7 +138,7 @@ const membersB = [
     ]
   },
   {
-    avatar: 'http://leonmmcoset.jjmm.ink:1000/web/bbs/public/assets/avatars/kfvQTsB0lzfrEI8j.png',
+    avatar: 'http://q.qlogo.cn/headimg_dl?dst_uin=470611337&spec=640&img_type=jpg',
     name: 'anythingpea',
     title: '群管理 | 服务器管理',
     links: [
