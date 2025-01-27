@@ -94,6 +94,8 @@ const membersA = [
 
 ## Leon轨道交通管理组
 <script>
+import { VPTeamMembers } from 'vitepress/theme'
+import { bilibili, email, qq } from '.vitepress/icon.mts'
 const membersB = [
   {
     avatar: 'https://github.com/Leonmmcoset/vitepress/blob/3c0cb70b27473534b7c10e6bd729e4980c81429c/images/hushu.png?raw=true',
