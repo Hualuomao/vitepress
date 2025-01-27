@@ -33,11 +33,12 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '列表', link: '/liststart' },
-      { text: '制作', link: '/made/start'},
-      { text: '教程', link: '/teach/start'},
+      { text: '制作', link: '/made/start' },
+      { text: '教程', link: '/teach/start' },
       {
         text: '更多社交链接',
         items: [
+           { text: 'LeonMMcoset论坛',link: 'http://leonmmcoset.jjmm.ink:1000/web/bbs/public/u/1' },
            { text: 'Steam',link: 'https://steamcommunity.com/profiles/76561198294176606/' },
            { text: 'Modrinth',link: 'https://modrinth.com/user/LeonMMcoset'}
         ]
