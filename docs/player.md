@@ -38,7 +38,7 @@ const membersA = [
       { icon: {svg: bilibili}, link: 'https://space.bilibili.com/3546650649823421?spm_id_from=333.337.0.0'}
     ]
   }
-],
+]
 const membersB = [
   {
     avatar: 'https://github.com/Leonmmcoset/vitepress/blob/3c0cb70b27473534b7c10e6bd729e4980c81429c/images/hushu.png?raw=true',
@@ -49,7 +49,7 @@ const membersB = [
     ]
   },
   {
-    avater: 'http://leonmmcoset.jjmm.ink:1000/web/bbs/public/assets/avatars/enOte4hqLSiMybfl.png',
+    avatar: 'http://leonmmcoset.jjmm.ink:1000/web/bbs/public/assets/avatars/enOte4hqLSiMybfl.png',
     name: 'wjdyd',
     title: '论坛总管',
     links: [
@@ -57,7 +57,7 @@ const membersB = [
     ]
   },
   {
-    avater: 'http://q.qlogo.cn/headimg_dl?dst_uin=3639023079&spec=640&img_type=jpg',
+    avatar: 'http://q.qlogo.cn/headimg_dl?dst_uin=3639023079&spec=640&img_type=jpg',
     name: 'spentwing672136',
     title: '群管理',
     links: [
@@ -65,7 +65,7 @@ const membersB = [
     ]
   },
   {
-    avater: 'http://q.qlogo.cn/headimg_dl?dst_uin=2667727093&spec=640&img_type=jpg',
+    avatar: 'http://q.qlogo.cn/headimg_dl?dst_uin=2667727093&spec=640&img_type=jpg',
     name: 'xiaozhecun1048',
     title: '服务器管理',
     links: [
@@ -73,7 +73,7 @@ const membersB = [
     ]
   },
   {
-    avater: 'http://q.qlogo.cn/headimg_dl?dst_uin=3522947244&spec=640&img_type=jpg',
+    avatar: 'http://q.qlogo.cn/headimg_dl?dst_uin=3522947244&spec=640&img_type=jpg',
     name: 'linfeng',
     title: '服务器管理 | 论坛管理',
     links: [
@@ -81,7 +81,7 @@ const membersB = [
     ]
   },
   {
-    avater: 'http://leonmmcoset.jjmm.ink:1000/web/bbs/public/assets/avatars/kfvQTsB0lzfrEI8j.png',
+    avatar: 'http://leonmmcoset.jjmm.ink:1000/web/bbs/public/assets/avatars/kfvQTsB0lzfrEI8j.png',
     name: 'anythingpea',
     title: '群管理 | 服务器管理',
     links: [
