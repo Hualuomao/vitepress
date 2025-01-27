@@ -7,7 +7,7 @@
 // ---LeonMMcoset论坛---
 // { icon: {svg: leonbbs}, link: 'http://leonmmcoset.jjmm.ink:1000/web/bbs/public/u/1' }
 import { VPTeamMembers } from 'vitepress/theme'
-import { bilibili, email, qq } from '.vitepress/icon.mts'
+import { bilibili, email, qq, leonbbs } from '.vitepress/icon.mts'
 const membersA = [
   {
     avatar: 'https://www.github.com/leonmmcoset.png',
@@ -95,7 +95,7 @@ const membersA = [
 ## Leon轨道交通管理组
 <script>
 import { VPTeamMembers } from 'vitepress/theme'
-import { bilibili, email, qq } from '.vitepress/icon.mts'
+import { bilibili, email, qq, leonbbs } from '.vitepress/icon.mts'
 const membersB = [
   {
     avatar: 'https://github.com/Leonmmcoset/vitepress/blob/3c0cb70b27473534b7c10e6bd729e4980c81429c/images/hushu.png?raw=true',
