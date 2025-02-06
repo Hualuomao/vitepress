@@ -12,8 +12,12 @@ hero:
     - theme: alt
       text: 列表
       link: /liststart
-    - theme: 制作
+    - theme: alt
+      text: 制作
       link: /made/start
+    - theme: alt
+      text: 服务器
+      link: /teach/start
 
 features:
   - title: 快速

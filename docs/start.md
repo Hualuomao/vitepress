@@ -15,6 +15,8 @@
 
 ---
 
-1.[列表](https://leonmmcoset.github.io/vitepress/liststart.html)
+1.[列表](liststart.md)
 
-2.[制作](https://leonmmcoset.github.io/vitepress/made/start.html)
+2.[制作](made/start.md)
+
+3.[服务器](teach/start.md)
