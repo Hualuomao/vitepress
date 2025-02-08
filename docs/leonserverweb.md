@@ -1,4 +1,7 @@
 # Leon服务器开服网
+服务器紧急维修
+
+https://leonmmcoset.github.io/vitepress/serverdied.html
 ::: warning
 此开服网是给那些没钱买服务器的人准备的，如果你有服务器，请不要使用！
 :::
