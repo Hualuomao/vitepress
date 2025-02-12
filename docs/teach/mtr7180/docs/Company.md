@@ -14,7 +14,7 @@
 此规定所有解释权归Leon轨道交通管理组所有
 
 ## 公司列表
-- Leon轨道交通城市建设与轨道交通建设公司（LeonMMcoset）
+- Leon轨道交通城市建设与轨道交通建设公司（LeonMMcoset，anythingpea）
 - Leon第三十七轨道交通运营公司（无尽的夜灯）
 - 仁和公司（hello）
 - Leon轨道交通|滨州轨道交通分公司（Aurora）
