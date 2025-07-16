@@ -14,7 +14,7 @@ Leon开服网是由`LeonMMcoset`使用[MCSM（MCSManager Panel）](https://docs.
 ## 服务器
 ### Minecraft
 <!-- []() - QQ群号： -->
-[Leon轨道交通](teach/mtr7180.md) - QQ群号：368272698
+[Leon轨道交通](teach/mtr7180.md) - QQ群号：903926296
 
 永盛工艺 - QQ群号：787437355
 
