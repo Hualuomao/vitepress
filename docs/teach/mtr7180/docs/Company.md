@@ -23,7 +23,7 @@
 - Leon轨道交通第二公司（hou）
 - 云山轨道交通（Leon）分公司（spentwing）
 - Leon高速铁路（城际铁路）公司（zauaz）
-- 莱恩中铁（sky_bird）
+- ** （纪念去世管理者） **莱恩中铁（sky_bird）
 - 半旬轨交城建公司（banxun_x）
 - 厂州轨道交通（leon）分公司（xrd_114514）
 - leon轨交第二分公司红阳分局（Patrick）
