@@ -16,9 +16,11 @@ Leon开服网是由`LeonMMcoset`使用[MCSM（MCSManager Panel）](https://docs.
 <!-- []() - QQ群号： -->
 [Leon轨道交通](teach/mtr7180.md) - QQ群号：903926296
 
+LeonMC - QQ群号：178502054
+
 永盛工艺 - QQ群号：787437355
 
-云山MTR - QQ群号：1011880781
+云山MTR（关服） - QQ群号：1011880781（无效）
 
 无尽的夜灯 - QQ群号：770292464
 
